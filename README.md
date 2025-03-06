@@ -48,9 +48,9 @@ git commit -m "Submodule auf neueste Version aktualisiert"
 ### Ein einzelnes Submodul aktualisieren
 
 ```bash
-git submodule update --remote BRD_ITS_Examples
-git add BRD_ITS_Examples
-git commit -m "BRD_ITS_Examples auf neueste Version aktualisiert"
+git submodule update --remote PracticalExam_BRD_ITS_Examples
+git add PracticalExam_BRD_ITS_Examples
+git commit -m "PracticalExam_BRD_ITS_Examples auf neueste Version aktualisiert"
 ```
 
 ### In einem Submodul arbeiten
