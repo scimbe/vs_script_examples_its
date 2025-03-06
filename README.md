@@ -2,6 +2,8 @@
 
 Dieses Repository enthält Skript-Beispiele für Verteilte Systeme, einschließlich Strukturen und Muster, die durch Submodule organisiert sind.
 
+Link zunm [Skript](https://raw.githubusercontent.com/scimbe/vs_script/main/vs-script-first-v01.pdf)
+
 ## Übersicht der Struktur
 
 Das Repository ist in verschiedene Bereiche unterteilt, die als Git-Submodule implementiert sind:
