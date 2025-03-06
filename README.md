@@ -1,6 +1,6 @@
 # VS Script Examples ITS
 
-Dieses Repository enthält Skript-Beispiele für Verteilte Systeme und Internet Transport Security (ITS), einschließlich Strukturen und Muster, die durch Submodule organisiert sind.
+Dieses Repository enthält Skript-Beispiele für Verteilte Systeme, einschließlich Strukturen und Muster, die durch Submodule organisiert sind.
 
 ## Übersicht der Struktur
 
