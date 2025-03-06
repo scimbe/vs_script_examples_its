@@ -1,9 +1,1 @@
-[submodule "Chapter_2_Supporting_Pattern"]
-	path = Chapter_2_Supporting_Pattern
-	url = https://github.com/scimbe/VS_Pattern_By_KI.git
-[submodule "PracticalExam_MainDemo"]
-	path = PracticalExam_MainDemo
-	url = https://github.com/Transport-Protocol/CaDSPracticalExamVS.git
-[submodule "PracticalExam_BRD_ITS_Examples"]
-	path = PracticalExam_BRD_ITS_Examples
-	url = https://github.com/Transport-Protocol/ITS-BRD-VSC.git
+
