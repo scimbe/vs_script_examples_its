@@ -1,0 +1,9 @@
+[submodule "Chapter_2"]
+	path = Chapter_2
+	url = https://github.com/scimbe/VS_Pattern_By_KI.git
+[submodule "PracticalExam_1"]
+	path = PracticalExam_1
+	url = https://github.com/Transport-Protocol/CaDSPracticalExamVS.git
+[submodule "BRD_ITS_Examples"]
+	path = BRD_ITS_Examples
+	url = https://github.com/Transport-Protocol/ITS-BRD-VSC.git
