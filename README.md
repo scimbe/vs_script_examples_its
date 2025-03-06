@@ -58,7 +58,7 @@ git commit -m "BRD_ITS_Examples auf neueste Version aktualisiert"
 Um in einem Submodul Änderungen vorzunehmen (am Beispiel von Chapter_2):
 
 ```bash
-cd Chapter_2
+cd Chapter_4_Supporting_Pattern 
 # Änderungen vornehmen
 git add .
 git commit -m "Beschreibung der Änderungen"
@@ -69,8 +69,8 @@ Anschließend im Hauptrepository:
 
 ```bash
 cd ..
-git add Chapter_2
-git commit -m "Submodul Chapter_2 aktualisiert"
+git add Chapter_4_Supporting_Pattern 
+git commit -m "Submodul Chapter_4_Supporting_Pattern  aktualisiert"
 git push
 ```
 
