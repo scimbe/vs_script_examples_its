@@ -7,7 +7,7 @@ Dieses Repository enthält Skript-Beispiele für Verteilte Systeme und Internet 
 Das Repository ist in verschiedene Bereiche unterteilt, die als Git-Submodule implementiert sind:
 
 - **Chapter_2_Supporting_Pattern**: Design Patterns für Verteilte Systeme (Submodul, verweist auf [VS_Pattern_By_KI](https://github.com/scimbe/VS_Pattern_By_KI))
-- **PracticalExam_1**: Praktische Prüfungsaufgaben für Verteilte Systeme (Submodul, verweist auf [CaDSPracticalExamVS](https://github.com/Transport-Protocol/CaDSPracticalExamVS))
+- **PracticalExam_MainDemo**: Baisi für doe praktische Prüfungsaufgaben für Verteilte Systeme (Submodul, verweist auf [CaDSPracticalExamVS](https://github.com/Transport-Protocol/CaDSPracticalExamVS))
 - **BRD_ITS_Examples**: Beispiele für das ITS BRD (Submodul, verweist auf [ITS-BRD-VSC](https://github.com/Transport-Protocol/ITS-BRD-VSC))
 
 ## Git-Submodule Befehle
