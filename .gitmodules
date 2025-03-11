@@ -5,6 +5,4 @@
 [submodule "PracticalExam_MainDemo"]
 	path = PracticalExam_MainDemo
 	url = https://github.com/Transport-Protocol/CaDSPracticalExamVS.git
-[submodule "PracticalExam_BRD_ITS_Examples"]
-	path = PracticalExam_BRD_ITS_Examples
-	url = https://github.com/Transport-Protocol/ITS-BRD-VSC.git
+
