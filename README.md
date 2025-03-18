@@ -9,7 +9,7 @@ Link zunm [Skript](https://raw.githubusercontent.com/scimbe/vs_script/main/vs-sc
 Das Repository ist in verschiedene Bereiche unterteilt, die als Git-Submodule implementiert sind:
 
 - **Chapter_4_Supporting_Pattern**: Design Patterns für Verteilte Systeme (Submodul, verweist auf [VS_Pattern](https://github.com/scimbe/VS_Pattern_By_KI))
-- **PracticalExam_MainDemo**: Baisi für doe praktische Prüfungsaufgaben für Verteilte Systeme (Submodul, verweist auf [CaDSPracticalExamVS](https://github.com/Transport-Protocol/CaDSPracticalExamVS))
+- **Chapter_5_Use_Threads**: Experimente mit Threads [Thread-Demo](https://github.com/scimbe/Thread-Demo)))
 - **PracticalExam_BRD_ITS_Examples**: Beispiele für das ITS BRD (Submodul, verweist auf [ITS-BRD-VSC](https://github.com/Transport-Protocol/ITS-BRD-VSC))
 
 ## Git-Submodule Befehle
