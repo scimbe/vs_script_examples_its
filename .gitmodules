@@ -6,3 +6,6 @@
 	path = PracticalExam_MainDemo
 	url = https://github.com/Transport-Protocol/CaDSPracticalExamVS.git
 
+[submodule "Chapter_5_Use_Threads"]
+	path = Chapter_5_Use_Threads
+	url = https://github.com/scimbe/Thread-Demo
